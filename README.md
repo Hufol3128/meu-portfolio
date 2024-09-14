@@ -1,4 +1,4 @@
-Pequeno projeto de portfolio para estudo.
+Pequeno projeto de portfolio para estudo com auxílio de professor.
 
 
 
